@@ -23,7 +23,8 @@
 | 9\. | Breadboard |
 | 10\. | Connecting cables |
 
-**CONSTRUCTION :           ![][image1]![][image2]**
+**CONSTRUCTION :           ![image1](Schematic.jpg)
+![image2](Connections.jpg)**
 
                            The system is constructed by connecting different sensors to a microcontroller such as Arduino UNO or ESP32.
 
