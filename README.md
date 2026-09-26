@@ -24,7 +24,7 @@
 | 10\. | Connecting cables |
 
 **CONSTRUCTION :          
-![connections](Connections.jpg)
+![block](block.jpg)
 ![schematicdiagram](Schematic2.png)
 
 
@@ -45,7 +45,7 @@
               The system continuously monitors environmental and ground conditions using multiple sensors.
 
 Rainfall → Soil Moisture → Ground Movement/Vibration → Microcontroller → Risk Detection → Warning → Dashboard/Notification.    
-![image3](Block.jpg)
+![image3](Connections.jpg)
 
 1.When heavy rain occurs, the rain sensor detects it.  
 2 Water increases the moisture content of the soil.  
