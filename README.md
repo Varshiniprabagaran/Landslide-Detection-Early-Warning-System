@@ -24,7 +24,7 @@
 | 10\. | Connecting cables |
 
 **CONSTRUCTION :          
-![block](block.jpg)
+![block](Block.jpg)
 ![schematicdiagram](Schematic2.png)
 
 
