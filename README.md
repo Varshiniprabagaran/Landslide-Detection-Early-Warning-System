@@ -25,7 +25,7 @@
 
 **CONSTRUCTION :          
 ![image1]()
-![image2](Schematic2.jpg)**
+
 
                            The system is constructed by connecting different sensors to a microcontroller such as Arduino UNO or ESP32.
 
@@ -37,7 +37,8 @@
 6.The microcontroller processes the sensor values.  
 7.A buzzer and LED provide a local warning when dangerous conditions are detected.  
 8.A Wi-Fi/GSM module can send automatic notifications.  
-9.The sensor values can also be displayed on a dashboard for continuous monitoring.  
+9.The sensor values can also be displayed on a dashboard for continuous monitoring. 
+![image2](Schematic2.jpg)
    
 **WORKING :**   
               The system continuously monitors environmental and ground conditions using multiple sensors.
