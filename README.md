@@ -25,7 +25,7 @@
 
 **CONSTRUCTION :          
 ![image1]()
-![image2](Schematic.jpg)**
+![image2](Schematic2.jpg)**
 
                            The system is constructed by connecting different sensors to a microcontroller such as Arduino UNO or ESP32.
 
