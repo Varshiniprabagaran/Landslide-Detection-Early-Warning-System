@@ -45,7 +45,7 @@
               The system continuously monitors environmental and ground conditions using multiple sensors.
 
 Rainfall → Soil Moisture → Ground Movement/Vibration → Microcontroller → Risk Detection → Warning → Dashboard/Notification.    
-
+![image3](Block.jpg)
 
 1.When heavy rain occurs, the rain sensor detects it.  
 2 Water increases the moisture content of the soil.  
@@ -71,7 +71,7 @@ Rainfall → Soil Moisture → Ground Movement/Vibration → Microcontroller →
 **RESULT :**   
              The developed system successfully monitors rainfall, soil moisture, ground tilt, and vibration using sensors. When the sensor readings cross the predefined safety limits, the system activates an automatic warning through a buzzer/LED and notification system. The sensor data can also be monitored through a dashboard, helping users identify potentially dangerous ground conditions at an early stage.  
     
-**![][image4]**  
+**![image4](Conc.jpg)**  
 **CONCLUSION:**   
               The Landslide Monitoring and Early Warning System provides a practical method for continuously monitoring conditions that may contribute to landslides. By combining rainfall, soil moisture, tilt, and vibration sensors with a microcontroller and automatic notification system, the project can provide an early warning when abnormal conditions are detected. This system can help improve safety in landslide-prone areas and can be further enhanced using IoT, cloud monitoring, GPS, and additional sensors.
 
